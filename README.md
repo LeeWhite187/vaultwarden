@@ -1,3 +1,7 @@
+Fork of VaultWarden, made strictly in case the original repository gets deleted or closed.
+Please refer to the original for any updates, issues, etc: https://github.com/dani-garcia/vaultwarden
+
+
 ![Vaultwarden Logo](./resources/vaultwarden-logo-auto.svg)
 
 An alternative server implementation of the Bitwarden Client API, written in Rust and compatible with [official Bitwarden clients](https://bitwarden.com/download/) [[disclaimer](#disclaimer)], perfect for self-hosted deployment where running the official resource-heavy service might not be ideal.
